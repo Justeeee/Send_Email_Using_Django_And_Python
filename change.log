@@ -1,0 +1,7 @@
+In this version:
+- Python v3.8
+- The Django app name is "email_sender_app"
+- Endpoint is http://127.0.0.1:8000/api/send-mail
+- Created TODO comments so that its easy to identify where the developer has to make changes
+- Created README with steps to use Google App password.
+
