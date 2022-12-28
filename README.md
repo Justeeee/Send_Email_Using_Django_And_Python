@@ -1,4 +1,4 @@
-# Send_Email_Using_Django_And_Python
+# Send Email Using Django And Python
 Send email from Gmail Id in Django using HTML Template
 
 ## Pre-Requisites
