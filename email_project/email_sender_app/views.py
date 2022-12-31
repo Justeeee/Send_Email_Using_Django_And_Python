@@ -40,4 +40,4 @@ def index(request):
         fail_silently=False,
     )
 
-    return HttpResponse("Mail Sent!!")
+    return HttpResponse("Mail was sent Sent!!")
